@@ -1,4 +1,4 @@
-# Contributing to Lenape Princeton Timetree
+# Contributing to Lunaapahkiing Princeton Timetree
 
 ## Content editing
 
