@@ -104,8 +104,7 @@ All other content is copyrighted by the Trustees of Princeton University.
 Lunaapahkiing Princeton Timetree is implemented as a [Hugo static site](https://gohugo.io/) with a custom theme. The data visualization is implemented with JavaScript and [d3.js](https://d3js.org/) for interactivity, layout, and visuals for the timetree.
 
 The [source code is available on GitHub](https://github.com/Princeton-CDH/lenape-timetree). To cite the codebase:
-<div class="citation">
-	
-Koeser, Rebecca Sutton, Gissoo Doroudian, and Ryan Heuser. (2023). lenape-timetree (1.0). Zenodo. https://doi.org/10.5281/zenodo.8040363
 
+<div class="citation">
+Koeser, Rebecca Sutton, Doroudian, Gissoo, & Heuser, Ryan. (2023). lenape-timetree (1.0.3). Zenodo. https://doi.org/10.5281/zenodo.8371313
 </div>
