@@ -1,11 +1,16 @@
 baseURL: https://lenapetimetree.indigenous.princeton.edu/
 languageCode: en-us
 title: Lunaapahkiing Princeton Timetree
-theme: timetree
+theme:
+  - github.com/Princeton-CDH/lenape-timetree
 paginate: 20
 timeout: 45s # increase to allow time for image processing
 googleAnalytics: G-E02J9KBNN6
 enableRobotsTXT: true
+
+module:
+  imports:
+  - path: github.com/Princeton-CDH/lenape-timetree
 
 params:
   description: >-
