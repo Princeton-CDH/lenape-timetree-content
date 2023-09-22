@@ -1,21 +1,15 @@
 # Lunaapahkiing Princeton Timetree
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8040363.svg)](https://doi.org/10.5281/zenodo.8040363)
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Hugo](https://img.shields.io/badge/hugo-0.117-blue.svg)](https://gohugo.io)
 ![Node version](https://img.shields.io/badge/node-18-blue)
 
-This repository includes source code and text content for the CDH-sponsored [Lunaapahkiing Princeton Timetree](https://cdh.princeton.edu/projects/lenape-timetree/) research project.
+This repository includes text and media content for the CDH-sponsored [Lunaapahkiing Princeton Timetree](https://cdh.princeton.edu/projects/lenape-timetree/) research project.
 
 ## License
 
 ### Content
 
 Site content is licensed under the [Creative Commons Attribution 4.0 International License (CC-BY)](http://creativecommons.org/licenses/by/4.0/).
-
-### Software
-
-The software for this project is licensed under the [Apache 2.0 License](LICENSE).
 
 ## Developer + contributor setup instructions
 
@@ -67,31 +61,3 @@ You should see some debug output, followed by:
 
 Open a web browser to the above address to see a local version of the site. When you make changes and save files locally, hugo will automatically refresh the page.
 
-## Install pre-commmit hooks
-
-Anyone planning to do development on the site (i.e., contributing to javascript,
-scss, or templates), you need to install pre-commit hooks to automatically
-ensure tht code is consistently formatted. This step is not required
-for anyone who is working on site content and not modifying code or templates.
-
-Commit hooks are managed with [pre-commit](https://pre-commit.com/).
-To install, run:
-
-```{bash}
-pre-commit install
-```
-
-Current hooks include [Black](https://github.com/psf/black) for python code formatting, [isort](https://pycqa.github.io/isort/) for standardized python imports, and [Prettier](https://prettier.io/) for javascript, css, markdown, and other supported file types.
-
-Standardized code styles were instituted after some development was done on this project.
-To configure `git blame` to ignore the styling commit, use the following:
-
-```{bash}
-git blame <FILE> --ignore-revs-file .git-blame-ignore-revs
-```
-
-Or configure git to always ignore the styling revision commit:
-
-```{bash}
-git config blame.ignoreRevsFile .git-blame-ignore-revs
-```
