@@ -1,15 +1,18 @@
 # Lunaapahkiing Princeton Timetree
 
-[![Hugo](https://img.shields.io/badge/hugo-0.117-blue.svg)](https://gohugo.io)
-![Node version](https://img.shields.io/badge/node-18-blue)
+[![CC BY 4.0][cc-by-shield]][cc-by] [![Hugo](https://img.shields.io/badge/hugo-0.117-blue.svg)](https://gohugo.io) ![Node version](https://img.shields.io/badge/node-18-blue)
 
 This repository includes text and media content for the CDH-sponsored [Lunaapahkiing Princeton Timetree](https://cdh.princeton.edu/projects/lenape-timetree/) research project.
 
-## License
+This work is licensed under a
+[Creative Commons Attribution 4.0 International License][cc-by].
 
-### Content
+[![CC BY 4.0][cc-by-image]][cc-by]
 
-Site content is licensed under the [Creative Commons Attribution 4.0 International License (CC-BY)](http://creativecommons.org/licenses/by/4.0/).
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
+
 
 ## Developer + contributor setup instructions
 
