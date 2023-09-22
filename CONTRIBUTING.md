@@ -12,7 +12,7 @@ is recommended.
 
 ### Add and edit leaves
 
-Leaf content is stored in [content/leaves][content/leaves]. Each leaf
+Leaf content is stored in [content/leaves](content/leaves). Each leaf
 is represented by a single Markdown file with yaml metadata for
 sort and display dates, branch, title, and tags.
 
