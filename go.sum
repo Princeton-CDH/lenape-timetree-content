@@ -1,2 +1,6 @@
 github.com/Princeton-CDH/lenape-timetree v0.0.0-20230922221158-1d507bee139f h1:cJ2ZRZRNJS4eLiFPEXUw70HcMddiBznAZBo7sy0ZSH0=
 github.com/Princeton-CDH/lenape-timetree v0.0.0-20230922221158-1d507bee139f/go.mod h1:iBTZp3SmNw6/uA8VYKeWzhTCWrGlEApxPHg1gVkAvHM=
+github.com/Princeton-CDH/lenape-timetree v0.0.0-20230922224139-c17fde899ba3 h1:huVzgtzoOmbX36hQjV0yTyYDcWQRgNcS7/hb87DtaLA=
+github.com/Princeton-CDH/lenape-timetree v0.0.0-20230922224139-c17fde899ba3/go.mod h1:iBTZp3SmNw6/uA8VYKeWzhTCWrGlEApxPHg1gVkAvHM=
+github.com/Princeton-CDH/lenape-timetree v1.0.3 h1:xKCBDBanNMGWRzDB441DdDW+T32VrFiygR3lD4GJnPM=
+github.com/Princeton-CDH/lenape-timetree v1.0.3/go.mod h1:iBTZp3SmNw6/uA8VYKeWzhTCWrGlEApxPHg1gVkAvHM=
