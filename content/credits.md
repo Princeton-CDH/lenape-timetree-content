@@ -59,3 +59,8 @@ The LPT is implemented as a [Hugo static site](https://gohugo.io/) with a custom
 Content is organized into a network by branch and date; leaves are positioned vertically by time period and horizontally by branch using a d3.js force layout with custom forces. Branches are drawn using d3.js curves to connect the leaves along each branch. The alignment is not strictly sequential, and both the layout and the shapes of the leaves are drawn somewhat randomly; the timetree is intended to invite exploration as a generative interface that is never exactly the same.
 
 The timetree was implemented with a responsive design and an alternate layout for mobile devices to make it equally engaging on smaller screens. The timetree is keyboard navigable in order to offer vision impaired users a comparable experience for exploring leaves by branch and tag.
+
+Code review on JavaScript code in v1.0.1 of the codebase was coordinated by [DHTech Community Code Review](https://dhcodereview.github.io/) and completed by:
+* [Cole Crawford](https://github.com/ColeDCrawford), Senior Software Engineer, Harvard Arts and Humanities Research Computing
+* [Raff Viglianti](http://raffviglianti.com/), Senior Research Software Developer, Maryland Institute for Technology in the Humanities
+
