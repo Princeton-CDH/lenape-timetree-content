@@ -1,8 +1,8 @@
-# Lunaapahkiing Princeton Timetree
+# Lunaapahkiing Princeton Timetree content
 
 [![CC BY 4.0][cc-by-shield]][cc-by] [![Hugo](https://img.shields.io/badge/hugo-0.117-blue.svg)](https://gohugo.io) ![Node version](https://img.shields.io/badge/node-18-blue)
 
-This repository includes text and media content for the CDH-sponsored [Lunaapahkiing Princeton Timetree](https://cdh.princeton.edu/projects/lenape-timetree/) research project.
+This repository includes text and media for the CDH-sponsored [Lunaapahkiing Princeton Timetree](https://cdh.princeton.edu/projects/lenape-timetree/) research project.
 It uses a custom Hugo theme, available at [Princeton-CDH/lenape-timetree](https://github.com/Princeton-CDH/lenape-timetree).
 
 Note: this project was originally developed in a single git repository; in September 2023 the repository was split out to separate content and code to simplify maintenance and ownership. An archive of the original git repository with the combined history up to that point is available at [Princeton-CDH/lenape-timetree-archive](https://github.com/Princeton-CDH/lenape-timetree-archive).
